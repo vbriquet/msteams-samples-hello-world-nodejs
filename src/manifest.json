@@ -39,7 +39,7 @@
         ]
     }],
     "bots": [{
-        "botId": "00000000-0000-0000-0000-000000000000",
+        "botId": "fd98365d-4555-4bcd-8ffb-38d524f57b19",
         "needsChannelSelector": false,
         "isNotificationOnly": false,
         "scopes": [
@@ -48,7 +48,7 @@
         ]
     }],
     "composeExtensions": [{
-        "botId": "00000000-0000-0000-0000-000000000000",
+        "botId": "fd98365d-4555-4bcd-8ffb-38d524f57b19",
         "scopes": [
             "personal",
             "team"
